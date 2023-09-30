@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="old.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <blockquote>
+        <div><b><ins>
+                    <h2>SARDAR VALLABHBHAI PATEL</h2>
+                </ins></b></div>
+    </blockquote>
+
+    <ol><b>
+            <li>
+                <p><q><ins>Sardar Vallabhbhai Patel</ins> was a leader of Indias<br> freedom movement</q></p>
+            </li>
+
+            <li>
+                <p><q>He was the recipient of the Bharat Ratna<br> Award <ins>1991</ins>.</q></p>
+            </li>
+
+            <li>
+                <p><q>He completed his early education in <br> <ins>Gujarat</ins> itself.</q> </p>
+            </li>
+
+
+            <li>
+                <p><q>He was greatly influenced by <ins>Gandhi's</ins><br> ideology and also praised him a lot.</q>
+                </p>
+            </li>
+
+            <li>
+                <p><q>They continued to struggle against <br> the British until India's got independence.</q></p>
+            </li>
+
+            <li>
+                <p> <q>He, along with his associates, was <br>charged and found guilty of killing a<br> British<del>
+                            after</del> police
+                        officer.</q></p>
+            </li>
+
+            <li>
+                <p><q>Ours is a non-violent war, it is <ins>Dharma<br> Yuddha.</ins></q></p>
+            </li>
+
+            <li>
+                <p><q>Gandhi's ten lines had greater force<br> than a hundred- page memorandum.</q></p>
+            </li>
+
+            <li>
+                <p><q>Today we must remove distinctions<br> of <ins>high</ins> and <ins>law </ins>, <ins>rich</ins> and
+                        <ins>poor</ins>,<br> caste or creed. </q></p>
+            </li>
+
+            <!-- <li>
+            <p><q>Gandhi's ten lines had greater force <br> a hundred- page memorandum.</q></p>
+        </li> -->
+
+            <!-- <li>
+            <p><q>.....The first requirement in the <br> was external and internal security.<br> You cannot have any
+                    plan unless there <br> security.</q></p>
+        </li> -->
+
+
+            <pre>
+
+
+
+
+
+
+
+
+
+
+<h1><marquee> <ins><mark>INDIAN LEGEND </mark></ins></marquee></h1>
+
+</pre>
+<blockquote>
+            <table>
+                
+                <h1>
+                    <tr>
+                        <th><ins>NAME</ins></th>
+                        <th><ins>BORN</ins></th>
+                        <th><ins>DIED</ins></th>
+                        <th><ins>COUNTRY</ins></th>
+
+                    </tr>
+                    <tr>
+                        <td>sardar patel</td>
+                        <td>31/09/1875</td>
+                        <td>15/12/1950</td>
+                        <td>indian</td>
+
+                    </tr>
+
+                    <tr>
+                        <td>bhagatsingh</td>
+                        <td>27/09/1907</td>
+                        <td>23/03/1931</td>
+                        <td>indian</td>
+                    </tr>
+
+                    <tr>
+                        <td>rajguru</td>
+                        <td>24/08/1908</td>
+                        <td>23/03/1931</td>
+                        <td>indian</td>
+                    </tr>
+
+                    <tr>
+                        <td>sukhdev</td>
+                        <td>15/05/1905</td>
+                        <td>23/03/1931</td>
+                        <td>indian</td>
+
+                    <tr>
+                        <td>Gandhiji</td>
+                        <td>02/10/1869</td>
+                        <td>30/01/1948</td>
+                        <td>indian</td>
+                    </tr>
+
+                    <tr>
+                        <td>jawaharlal nehru</td>
+                        <td>14/11/1889</td>
+                        <td>27/05/1964</td>
+                        <td>indian</td>
+                    </tr>
+
+                    <tr>
+                        <td>dr ambedakr</td>
+                        <td>14/06/1954</td>
+                        <td>23/03/1999</td>
+                        <td>indian</td>
+                    </tr>
+
+                    <tr>
+                        <td>apj abdul kalam</td>
+                        <td>15/11/1966</td>
+                        <td>23/05/2011</td>
+                        <td>indian</td>
+                    </tr>
+
+                    <tr>
+                        <td>indira gandhi</td>
+                        <td>19/08/1905</td>
+                        <td>23/03/1931</td>
+                        <td>indian</td>
+                    </tr>
+
+                    <tr>
+                        <td>mother teresa</td>
+                        <td>05/02/1954</td>
+                        <td>27/09/1987</td>
+                        <td>indian</td>
+                    </tr>
+
+                    <tr>
+                        <td>vikram sarabhai</td>
+                        <td>15/05/1905</td>
+                        <td>23/03/1931</td>
+                        <td>indian</td>
+                    </tr>
+            </table>
+        </blockquote>
+        </b>
+    </ol>
+
+
+    <pre>
+
+    <div >
+            <img title="saradar patel" class="a1" src="1.jpg" alt="sardar patel">
+        
+            
+    </div>
+    <div >
+            <img title="bhagatsingh" class="a2" src="2.webp" alt="bhagatsingh">
+        
+    </div>
+
+    <div >
+            <img title="rajguru" class="a3" src="3.jpeg" alt="rajguru">
+        
+    </div>
+
+    <div >
+            <img title="image error" class="a4" src="4.avif" alt="sukhdev">
+        
+    </div>
+
+    <div >
+            <img title="image error" class="a5"  src="5.avif" alt="Gandhiji">
+        
+    </div>
+    
+    <div>
+        <img  title="jawaharlal nehru" class="a6" src="6.jpeg" alt="jawaharlal nehru">
+    </div>
+
+    <div>
+        <img title="dr ambedakr" class="a7" src="7.jpg" alt="dr ambedkar">
+    </div>
+
+    <div>
+        <img  title="apj abdul kalam" class="a8" src="8.webp" alt="apj abdul kalam">
+    </div>
+
+    <div>
+        <img title="indira gandhi" class="a9" src="9.jpg" alt="indira gandhi">
+    </div>
+
+    <div>
+        <img title="mother teresa" class="a10" src="10.jpeg" alt="mother teresa">
+    </div>
+
+    <div>
+        <img title="vikram sara bhai" class="a11" src="11.webp" alt="vikram sara bhai">
+    </div><hr></pre>
+
+    
+        <blockquote>
+            <div><b><ins>
+                        <h2>color </h2>
+                    </ins></b></div>
+        </blockquote>
+
+        <ol>
+            <li>red</li>
+            <li>yellow</li>
+            <li>pink</li>
+            <li>green</li>
+            <li>violet</li>
+            <li>black</li>
+            <li>white</li>
+            
+        </ol>
+    
+    
+
+</body>
+
+</html>
